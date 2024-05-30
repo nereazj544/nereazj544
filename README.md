@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I'm Nerea 🐲 </h1>
-<p>This GitHub is for the things we do in class :) </p>
+<p>This GitHub is for things we do in class and some personal things :)</p>
 
 </div>
 
