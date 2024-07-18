@@ -7,7 +7,7 @@
 <!-- Contacta -->
 <div>
   
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVlNTE2MzY5MjMyeHF4bDcxa3Z6dHhranZnZzhmb3NqeWs4d2NzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bnj5T26Chn849WVtBa/giphy.gif" width="150px"> Connect with me
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVlNTE2MzY5MjMyeHF4bDcxa3Z6dHhranZnZzhmb3NqeWs4d2NzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bnj5T26Chn849WVtBa/giphy.gif" width="50px"> Connect with me
 
 
 <div align="center">
