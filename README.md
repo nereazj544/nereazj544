@@ -4,19 +4,23 @@
 
 </div>
 
+<!-- Contacta -->
 <div>
   
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVlNTE2MzY5MjMyeHF4bDcxa3Z6dHhranZnZzhmb3NqeWs4d2NzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bnj5T26Chn849WVtBa/giphy.gif" width="150px"> Connect with me
+
+
+<div align="center">
 
 <a href="https://www.instagram.com/_soyneokurai_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instagram|_soyneokurai_13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@soyneokurai1939" target="blank"> <img align = "center" src = "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt= "yb_soyneokurai1939" height="30">
-</p>
+</div>
 </div>
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- Analisis de GitHub -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -30,23 +34,23 @@
 </tr>
 </table>
 
+<!-- Habilidades -->
 ## Skills:
 
-#### Languages:
+#### 💬 Languages:
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-#### Database
+#### 🗂️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-#### IDEs
+
+#### ⚒️ Tools and IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
-### Tools
-
----
+[![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
 
