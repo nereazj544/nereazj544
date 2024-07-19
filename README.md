@@ -30,7 +30,7 @@
   <td width="50%" align="center">
   <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvYmZrZHY2ZXptbWZvOTQ5cnI5MmFpZGR1ajU0bzR6bTFubGh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mtAU9hD8qdrBC/giphy.gif"/>
   </td>
-  <td width="80%" align="center">
+  <td align="center">
   <a href="https://www.instagram.com/_soyneokurai_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instagram|_soyneokurai_13" height="30" width="40" /></a>
   <br>
 <a href="https://www.youtube.com/@soyneokurai1939" target="blank"> <img align = "center" src = "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt= "yb_soyneokurai1939" height="30" style="padding: 9px;">
