@@ -4,9 +4,14 @@
   <tr border="none">
   <td width="50%" align="center">
   <ul style="list-style: none">
+  <li>❗Este GitHub es para "cosas de clase" y algunas cosas personales tambien.</li>
+  <br>
   <li style="list-style: none">✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></li> 
   </ul>
   <br></br>
+  <td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nereazj544&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
   </tr>
 
   </table>
