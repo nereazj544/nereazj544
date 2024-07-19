@@ -3,11 +3,13 @@
   <table align="center">
   <tr border="none">
   <td width="50%" align="center">
+  <h3><img scr="">About me</h3>
   <p>❗Este GitHub es para "cosas de clase" y algunas cosas personales tambien.</p>
 
   <p>✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></p> 
   
   <br></br>
+  <!-- Imagen Natsu -->
   <td width="50%" align="center">
   <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
   </td>
@@ -22,15 +24,23 @@
 <div>
   
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVlNTE2MzY5MjMyeHF4bDcxa3Z6dHhranZnZzhmb3NqeWs4d2NzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bnj5T26Chn849WVtBa/giphy.gif" width="50px"> Connect with me
-
-
-<div align="center">
-
-<a href="https://www.instagram.com/_soyneokurai_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instagram|_soyneokurai_13" height="30" width="40" /></a>
+<table align="center">
+  <tr border="none">
+  <!-- gif batman -->
+  <td width="50%" align="center">
+  <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvYmZrZHY2ZXptbWZvOTQ5cnI5MmFpZGR1ajU0bzR6bTFubGh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mtAU9hD8qdrBC/giphy.gif"/>
+  </td>
+  <td width="50%" align="center">
+  <a href="https://www.instagram.com/_soyneokurai_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instagram|_soyneokurai_13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@soyneokurai1939" target="blank"> <img align = "center" src = "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt= "yb_soyneokurai1939" height="30" style="padding: 9px;">
 <a href="https://www.wattpad.com/user/akirakurai13" target="blank"> <img align = "center" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2ajUwMWgxeXc0Z2Y0enFiaHJ2enVyNHhnYzNzMDl1NXEzcDdybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6PDGsxOJttq64ov6z/giphy.gif" alt= "wattpad_akirakurai13" height="30" style="padding: 10px">
+  
+  <br></br>
+  
+  </tr>
 
-</div>
+  </table>
+
 </div>
 
 ---
