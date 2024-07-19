@@ -1,5 +1,15 @@
 <div align="center">
   <h1 align="center">Hi, I'm Nerea 🐲</h1>
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+  <ul>
+  <li style="list-style: none">✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></li> 
+  </ul>
+  <br></br>
+  </tr>
+
+  </table>
 <p>This GitHub is for things we do in class and some personal things :)</p>
 
 </div>
@@ -13,7 +23,9 @@
 <div align="center">
 
 <a href="https://www.instagram.com/_soyneokurai_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="instagram|_soyneokurai_13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@soyneokurai1939" target="blank"> <img align = "center" src = "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt= "yb_soyneokurai1939" height="30">
+<a href="https://www.youtube.com/@soyneokurai1939" target="blank"> <img align = "center" src = "https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt= "yb_soyneokurai1939" height="30" style="padding: 7px;">
+<a href="https://www.wattpad.com/user/akirakurai13" target="blank"> <img align = "center" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2ajUwMWgxeXc0Z2Y0enFiaHJ2enVyNHhnYzNzMDl1NXEzcDdybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6PDGsxOJttq64ov6z/giphy.gif" alt= "wattpad_akirakurai13" height="30">
+
 </div>
 </div>
 
@@ -54,3 +66,6 @@
 
 [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
 
+---
+## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=nereazj544&theme=juicyfresh&no-bg=true" />
