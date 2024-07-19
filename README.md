@@ -9,7 +9,7 @@
   
   <br></br>
   <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nereazj544&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
   </td>
   </tr>
 
