@@ -3,7 +3,7 @@
   <table align="center">
   <tr border="none">
   <td width="50%" align="center">
-  <ul>
+  <ul style="list-style: none">
   <li style="list-style: none">✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></li> 
   </ul>
   <br></br>
