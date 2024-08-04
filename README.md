@@ -76,7 +76,7 @@
 ![C#](https://img.shields.io/badge/csharp%20-%231572B6.svg?style=for-the-badge&logo=c#&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-F30851?style=for-the-badge&logo=angular&logoColor=white)
 
 #### 🗂️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
