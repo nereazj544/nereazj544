@@ -5,13 +5,15 @@
   <td width="50%" align="center">
   <h3><img scr="">About me</h3>
   <p>❗Este GitHub es para "cosas de clase" y algunas cosas personales tambien.</p>
-
+  <p>💭 Me gusta mas editar que programar</p>
   <p>✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></p> 
+  <p>⚽ I am a HUGE INAZUMA ELEVN fan</p>
   
   <br></br>
   <!-- Imagen Natsu -->
   <td width="50%" align="center">
-  <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
+  <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0Y2Y3bG5hOTgwNzZ0eW1mbXNtM3cyZjBrdWlxZGpvZHF4MWw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBg0e0ksxX3Gg/giphy.gif"/>
+  
   </td>
   </tr>
 
@@ -94,3 +96,6 @@
 ---
 ## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=nereazj544&theme=juicyfresh&no-bg=true" />
+
+---
+<img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
