@@ -85,10 +85,11 @@
 
 #### ⚒️ Tools and IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Photoshop CS6](https://img.shields.io/badge/PhotoshopCS6-FE7A16.svg?style=for-the-badge&logo=photoshopcs6&logoColor=white)&nbsp;
 
-[![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
+
 
 ---
 ## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
