@@ -7,7 +7,7 @@
   <p>❗Este GitHub es para "cosas de clase" y algunas cosas personales tambien.</p>
   <p>💭 Me gusta mas editar que programar</p>
   <p>✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></p> 
-  <p>⚽ I am a HUGE INAZUMA ELEVN fan</p>
+  <p>⚽ Soy un enorme fan de Inazuma Eleven </p>
   
   <br></br>
   <!-- Imagen Natsu -->
