@@ -10,7 +10,7 @@
   <p>⚽ Soy un enorme fan de Inazuma Eleven </p>
   
   <br></br>
-  <!-- Imagen Natsu -->
+  <!-- Imagen Shawn Froste -->
   <td width="50%" align="center">
   <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0Y2Y3bG5hOTgwNzZ0eW1mbXNtM3cyZjBrdWlxZGpvZHF4MWw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBg0e0ksxX3Gg/giphy.gif"/>
   
