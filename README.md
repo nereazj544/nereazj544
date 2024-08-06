@@ -11,14 +11,11 @@
   
   <br></br>
   <!-- Imagen Shawn Froste -->
-  <td width="50%" align="center">
-  <img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0Y2Y3bG5hOTgwNzZ0eW1mbXNtM3cyZjBrdWlxZGpvZHF4MWw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBg0e0ksxX3Gg/giphy.gif"/>
-  
+  <td  align="center">
+  <img width="100%" height="100%"  align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0Y2Y3bG5hOTgwNzZ0eW1mbXNtM3cyZjBrdWlxZGpvZHF4MWw2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBg0e0ksxX3Gg/giphy.gif"/>
   </td>
   </tr>
-
   </table>
-
 
 </div>
 
@@ -89,7 +86,12 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Photoshop CS6](https://img.shields.io/badge/PhotoshopCS6-0B0B1F.svg?style=for-the-badge&logo=photoshopcs6&logoColor=white)&nbsp;
+![Photoshop CS6](https://img.shields.io/badge/Photoshop_CS6-0B0B1F.svg?style=for-the-badge&logo=photoshopcs6&logoColor=white)&nbsp;
+
+#### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/windows-0079D5.svg?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/linux-F79E0C.svg?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/ubuntu-CB081D.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 
 
@@ -98,4 +100,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=nereazj544&theme=juicyfresh&no-bg=true" />
 
 ---
-<img  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
+<img width="100%"  align="center"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwb2d1Y3h5ZnppMjZxOTZqeDhzMDVrbjhwbmh4aW5nZ3R3Zjc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hX3S2CkN91VIc/giphy.gif"/>
+---
