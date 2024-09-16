@@ -87,7 +87,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D113C?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
-![Photoshop CS6](https://img.shields.io/badge/Photoshop_CS6-0B0B1F.svg?style=for-the-badge&logo=photoshopcs6&logoColor=white)
+![Photoshop CS6](https://img.shields.io/badge/Photoshop_CS6-0B0B1F.svg?style=for-the-badge&logo=photoshop&logoColor=white)
 
 #### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/windows-0079D5.svg?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
