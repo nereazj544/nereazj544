@@ -86,6 +86,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IdealC-FE7A16.svg?style=for-the-badge&logo=idealC&logoColor=white)
 ![Photoshop CS6](https://img.shields.io/badge/Photoshop_CS6-0B0B1F.svg?style=for-the-badge&logo=photoshopcs6&logoColor=white)&nbsp;
 
 #### 💻 Operating Systems
