@@ -76,6 +76,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-F30851?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astrp-F30851?style=for-the-badge&logo=astro&logoColor=white)
 
 #### 🗂️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
